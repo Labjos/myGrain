@@ -1,0 +1,2299 @@
+header {
+
+	width: 960px;
+	height: 210px;
+	background-color: #DF013A;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: HelveticaNeue, Arial;
+	list-style-type: none;
+	font-size: 24px;
+	list-style-type: none;
+	font-weight: bold;
+}
+
+section {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: HelveticaNeue, Arial;
+	text-decoration: none;
+	text-align: center;
+	line-height: 50px;
+	font-weight: bold;
+}
+
+#logograin {
+	width: 150px;
+	height: 80px;
+	background-image: url(imagenweb/marcagrain.png);
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+
+#menu_principal {
+	width: 100%;
+	height: 100px;
+	font-size: 18;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu_principal ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#menu_principal ul li {
+	display: inline;
+}
+
+#menu_principal ul li a {
+	display: inline-block;
+	padding: 20px 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#menu_principal ul li a:hover {
+	color: #FAFAFA;
+
+}
+
+#inicio{
+	width: 960px;
+	height: 405px;
+	background-color: #FAFAFA;
+	
+	}
+
+#titulo_principal{
+
+	width: 800px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 22px;
+
+}
+
+#titulo_secundario{
+	width: 700px;
+	height: 30px;
+	background-color:#FAFAFA;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-family: 'Arial, HelveticaNeue';
+	font-size: 20px;	
+	margin-top: 20px;
+	color: #000000;
+	line-height: 25px;
+	box-sizing: border-box;
+	padding: 5PX;
+	
+	}
+
+#imagen_central {
+	width: 960px;
+	height: 300px;
+	background-color:#000000;
+	background-image: url(imagenweb/agua1.jpg);
+	margin-bottom: 10px;
+	background-size: cover;
+}
+
+#grain {
+	width: 960px;
+	height: 705px;
+	 margin: auto;
+ background: -moz-linear-gradient(top, #FAAC58 , #D0F5A9);
+ background: -webkit-gradient(linear, 0 0, 0 100%, from( #DF013A),  to(#000000));
+ background: -o-linear-gradient(rgb(0,0,255),rgb(255,0,0));
+	margin-bottom: 5px;
+	
+}
+
+#logoesquina {
+	width: 150px;
+	height: 80px;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+	background-image: url(imagenweb/marcagrain.png);
+}
+
+#texto_nosotros {
+	width: 760px;
+	height: 80px;
+	background-color: #F2F2F2;
+	float: left;
+	margin-top: 10px;
+	box-shadow: 
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+	box-shadow: 10px 10px 5px #424242;
+  -webkit-box-shadow: 10px 10px 5px #424242;
+  -moz-box-shadow: 10px 10px 5px #424242;
+}
+
+h4 {
+	font-family: 'HelveticaNeue ThinCond';
+	margin-top: 10px;
+	font-size: 18px;
+	color: #000000;
+	line-height: 25px;
+	float: left;
+	margin-left: 5px;
+	box-sizing: border-box;
+	padding: 5px;
+	text-align: justify;
+
+}
+
+h6 {
+	font-family: 'HelveticaNeue ThinCond';
+	margin-top: 0px;
+	font-size: 24px;
+	color: #DF013A;
+	line-height: 25px;
+	float: left;
+	margin-left: 5px;
+	box-sizing: border-box;
+	padding: 15px;
+}
+
+#que {
+	width: 300px;
+	height: 430px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+#titulo_que {
+	width: 200px;
+	height: 80px;
+	background-color:#FFFFFF;
+	float: right;
+	margin-right: 5px;
+	margin-top: 15px;
+
+	}
+	
+#isotipo_que {
+	width: 80px;
+	height: 80px;
+	background-image: url(imagenweb/isosand.jpg);
+	background-size: cover;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+	}
+
+#texto_que {
+	width: 260px;
+	height: 300px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 10px;
+	margin-top: 20px;
+
+	}
+
+h5 {
+	font-family: 'HelveticaNeue ThinCond';
+	margin-top: 5px;
+	font-size: 20px;
+	color: #000000;
+	line-height: 20px;
+	box-sizing: border-box;
+	padding: 5PX;	
+	text-align: justify;
+
+}
+
+#como {
+	width: 300px;
+	height: 430px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+
+#titulo_como {
+	width: 200px;
+	height: 80px;
+	background-color: #FFFFFF;
+	float: right;
+	margin-right: 5px;
+	margin-top: 15px; 
+
+		}
+
+#isotipo_como {
+	width: 80px;
+	height: 80px;
+	background-image: url(imagenweb/manual.png);
+	background-size: cover;
+	float: left;	
+	margin-top: 10px;
+	margin-left: 10px;
+	}
+
+#texto_como {
+	width: 260px;
+	height: 300px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px; 
+		}
+
+
+#paraquien {
+	width: 300px;
+	height: 430px;
+	background-color: #FFFFFF;
+	float: right;
+	margin-right: 15px;
+	margin-top: 20px;
+
+}
+
+#titulo_paraquien {
+	width: 200px;
+	height: 80px;
+	background-color: #FFFFFF;
+	float: right;
+	margin-right: 5px;
+	margin-top: 15px; 
+
+	}
+
+#isotipo_paraquien {
+	width: 80px;
+	height: 80px;
+	background-image: url(imagenweb/comunidad.jpg);
+	background-size: cover;
+	float: left;	
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#texto_paraquien {
+	width: 260px;
+	height: 300px;
+	background-color: #FFffFF;
+	float: left;
+	margin-left: 15px;
+	margin-top: 20px; 
+	}
+
+#contribucion {
+	width: 960px;
+	height: 150px;
+	background-color: #000000;
+	float: left;
+	margin-top: 5px;
+	
+ 	}
+ 	 
+#boton_contribucion {
+
+	width: 600px;
+	height: 80px;
+	background-color: #E6E6E6;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-top: 30px;
+	border: 5px solid #FAFAFA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 5px;
+	
+}
+#contribucion1 {
+	width: 960px;
+	height: 150px;
+	background-color: #000000;
+	float: left;
+	margin-top: 5px;
+	
+ 	}
+
+ 	
+#boton_contribucion1 {
+
+	width: 600px;
+	height: 80px;
+	background-color: #E6E6E6;
+	margin-left: auto;
+	margin-right: auto; 
+	margin-top: 30px;
+	border: 5px solid #FAFAFA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 5px;
+	
+}
+
+#profesionales{
+	width: 960px;
+	height: 945px;
+	background-color: #DF013A;
+	margin-bottom: 5px;
+	clear: both;
+}
+
+#texto_profesionales {
+	width: 800px;
+	height: 120px;
+	background-color: #E6E6E6;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px; 
+	margin-top: 10px;
+	
+}
+
+#destacado {
+	color: #DF013A;
+	font-family: HelveticaNeue ThinCond;
+}
+
+#areas {
+	width: 455px;
+	height: 300px;
+	background-image: url(imagenweb/depuradora.jpg);
+	float: left;
+	margin-left: 15px;
+	margin-top: 30px;
+
+}
+#isoarea {
+	width: 400px;
+	height: 80px;
+	background-color: rgba(200, 0,0, 0.3);
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+#texto_areas{
+	width: 300px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+
+#prof {
+	width: 455px;
+	height: 300px;
+	background-image: url(imagenweb/profesionales.png);
+	background-size: cover;
+	float: right;
+	margin-right: 15px;
+	margin-top: 30px; 
+}
+#isoprof {
+	width: 400px;
+	height: 80px;
+	background-color: rgba(200, 0,0, 0.3);
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+#texto_prof{
+	width: 400px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+
+#sumate {
+	width: 455px;
+	height: 300px;
+	background-image: url(imagenweb/reunion.jpeg);
+	background-size: cover;
+	float: left;
+	margin-left: 15px;
+	margin-top:30px;
+}
+#isosumate {
+	width: 400px;
+	height: 80px;
+	background-color: rgba(200, 0,0, 0.3);
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+#texto_sumate{
+	width: 400px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+
+#participa {
+	width: 455px;
+	height: 300px;
+	background-image: url(imagenweb/croquis.jpg);
+	background-size: cover;
+	float: right;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+#isoparticipa {
+	width: 400px;
+	height: 80px;
+	background-color: rgba(200, 0,0, 0.3);
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+#texto_particia {
+	width: 450px;
+	height: 80px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+
+#texto_blanco {
+
+	color: #FFFFFF;
+	font-family: HelveticaNeue ThinCond;
+	margin-left: 20px;
+	
+}
+
+#texto_negro {
+
+	color: #000000;
+	font-family: HelveticaNeue ThinCond;
+	margin-left: 20px;
+	
+}
+
+#proyectos{
+	width: 960px;
+	height: 1150px;
+	background-color: #000000; 
+	margin-bottom: 5px;
+	
+	}
+
+#imagen_proyectos {
+	width: 940px;
+	height: 350px;
+	background-image: url(imagenweb/proyectos.jpg);
+	background-size: cover;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+#realizados {
+
+	width: 960px;
+	height: 330px;
+	background-color: #DF013A;
+	
+}
+
+#proyecto1 {
+	width: 305px;
+	height: 300px;
+	background-image: url(imagenweb/asper.jpg);
+	background-size: cover;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#texto_p1 {
+	width: 270px;
+	height: 50px;
+	background-color: rgba(0, 0,220, 0.5);
+	margin-top: 10px; 
+}
+
+
+#proyecto2 {
+	width: 305px;
+	height: 300px;
+	background-image: url(imagenweb/aula.jpg);
+	background-size: cover;
+	float: left;
+	margin-left: 13px;
+	margin-top: 10px;
+
+}
+
+#texto_p2 {
+	width: 270px;
+	height: 50px;
+	background-color: rgba(0, 0,220, 0.5);
+	margin-top: 10Px;
+}
+#proyecto3 {
+	width: 305px;
+	height: 300px;
+	background-image: url(imagenweb/proyecto1.jpg);
+	background-size: cover;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#texto_p3 {
+	width: 270px;
+	height: 50px;
+	background-color: rgba(0,0,220, 0.5);
+	margin-top: 10px;
+}
+#presenta {
+	width: 430px;
+	height: 300px;
+	background-image: url(imagenweb/pluma.jpg);
+	background-size: cover;
+	float: left;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+#titulo_presenta {
+	width: 360px;
+	height: 30px;
+	margin-top: 10px; 
+
+}
+
+#texto_presenta {
+
+	width: 400px;
+	height: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+
+#transparencia {
+	width: 430px;
+	height: 300px;
+	background-color: rgba(270,270,270, 0.4);
+	float: left;
+	
+}
+
+#analisis {
+	width: 430px;
+	height: 300px;
+	background-color: #00FF00;
+	float: right;
+	margin-right: 40px;
+	margin-top: 20px;
+
+}
+
+
+#titulo_analisis {
+	width: 400px;
+	height: 40px;
+	margin-top: 10px; 
+}
+
+#texto_analisis {
+
+	width: 400px;
+	height: 200px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 10px;
+
+}
+
+#preguntas {
+	width: 960px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 370px;
+	background-color:  #DF013A;
+
+}
+
+#frecuentes {
+	width: 960px;
+	height: 50px;
+	
+}
+
+#contacto {
+	width: 960px;
+	height: 650px;
+	background-color: #DF013A;
+}
+
+input {
+	width: 500px;
+	padding: 10px;
+	box-sizing: border-box;
+	display: block;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+	
+}
+
+input [type="submit"] {
+	width: 500px;
+	padding: 10px;
+	background-color: #585858;
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+textarea {
+	width: 500px;
+	padding: 10px;
+	box-sizing: border-box;
+	float: right;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+#respuesta {
+
+	width: 300px;
+	height: 50px
+	background-color #364368;
+	float: left;
+	margin-left: 30px;
+
+}
+
+#soporte {
+	width: 960px;
+	height: 700px;
+	background-color: #848484;
+	margin-top: 5px;
+
+}
+
+#texto_puntuales {
+	width: 900px;
+	height: 60px;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#boton_pago {
+	width: 900px;
+	height: 200px
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+#boton_pago ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#boton_pago ul li {
+	display: inline;
+}
+
+#boton_pago ul li a {
+	display: inline-block;
+	padding: 20px 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#boton_pago ul li a:hover {
+	color: #DF013A;
+}
+
+#formas_pago {
+	width: 800px;
+	height: 420px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 60px;
+
+}
+
+#boton_pagou {
+	width: 200px;
+	height: 80px;
+	background-color: #E6E6E6;
+	float: left;
+	margin-left: 80px;
+	border: 5px solid #FAFAFA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 5px;
+}
+
+#boton_pagom {
+
+	width: 200px;
+	height: 80px;
+	background-color: #E6E6E6;
+	float: left;
+	margin-left: 50px;
+
+	border: 5px solid #FAFAFA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 5px;
+}
+
+#boton_pagoa {
+
+	width: 200px;
+	height: 80px;
+	background-color: #E6E6E6;
+	float: right;	
+	margin-right: 80px;
+	border: 5px solid #FAFAFA;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	padding: 5px;
+}
+
+#zona_pagos {
+	width: 920px;
+	height: 600px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#zona_pagos img {
+	width: 180px;
+	background-image: url(imagenweb/$imagen);
+	background-size: cover;
+	box-sizing: border-box;
+	float: left;
+	margin-left: 300px;
+	margin-top: 10px;
+	
+}
+
+#texto_pago {
+	width: 100px;
+	height: 40px;
+	color: #01DF01;
+	font-family: HelveticaNeue ThinCond;
+	box-sizing: border-box;
+	float: left;
+	margin-left: 310px;
+	margin-top: 5px;
+	
+}
+
+#texto_importe {
+	width: 200px;
+	height: 40px;
+	color:#B40431;
+	font-family: HelveticaNeue ThinCond;
+	font-size: 30px;
+	float: left;
+	margin-left:310px; 
+	margin-top: 10px;
+		
+}
+
+#texto_pago {
+	width: 200px;
+	height: 50px;
+	float: left;
+	margin-left: 310px;
+	margin-top: 5px;
+
+
+}
+
+#mail {
+	width: 450px;
+	height: 100px;
+	background-color: #F4FA58;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	
+}
+
+#imagen_mail {
+
+	width: 50px;
+	height: 40px;
+	background-image: url(imagenweb/mail.png);
+	background-size: cover;
+	float: left;	
+	margin-left: 5px;
+
+}
+
+#texto_mail {
+	
+	width: 150px;
+	height: 40px;
+	float: left;	
+	margin-left: 15px;
+}
+
+#wass {
+	width: 450px;
+	height: 100px;
+	background-color: #3ADF00;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	
+}
+
+#imagen_wass {
+	width: 70px;
+	height: 40px;
+	background-image: url(imagenweb/wass.png);
+	background-size: cover; 
+	float: left;	
+	margin-left:0px;
+	margin-top: 5px;		
+}
+
+#texto_wass {
+
+	width: 150px;
+	height: 40px;
+	float: left;	
+	margin-left: 15px;
+
+}
+
+#formulario {
+	width: 920px;
+	height: 450px;
+	background-color: #FFBF00;
+	float: right; 
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	margin-right: 20px;
+	
+}
+
+#imagen_formulario {
+	width: 50px;
+	height: 50px;
+	background-image: url(imagenweb/formulario.png);
+	background-size: cover;
+	float: left;	
+	margin-left: 50px;
+	margin-top: 35px;
+}
+ 
+#texto_formulario {
+
+	width: 200px;
+	height: 40px;
+	float: left;	
+	margin-left: 15px;
+	margin-top: 10px;
+
+} 
+
+#resplandor {
+
+	-moz-box-shadow: 0px 0px 20px #ffffff;
+    -webkit-box-shadow: 0px 0px 20px #ffffff;
+    box-shadow: 0px 0px 20px #ffffff;
+      
+    padding: 0px;
+    border: 0,5px solid #ffffff;
+    width: 450px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+footer {
+	width: 960px;
+	height: 220px;
+	background-color: #DF013A;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+
+}
+
+#datos {
+	width: 600px;
+	height: 50px;
+	background-color: #DF013A;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+	
+}
+
+#texto_datos {
+
+	width: 500px;
+	height: 40px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#resdes {
+	width: 150px;
+	height: 40px;
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+
+}
+#email {
+	width: 50px;
+	height: 40px;
+	background-image: url(imagenweb/mail.png);
+	background-size: cover;
+	float: left;	
+	margin-left: 5px;
+	
+}
+#instag {
+width: 40px;
+	height: 40px;
+	background-image: url(imagenweb/instag.png);
+	background-size: cover;
+	float: left;	
+	margin-left: 5px;
+}
+
+#face {
+	width: 40px;
+	height: 40px;
+	background-image: url(imagenweb/facebook.png);
+	background-size: cover;
+	float: right;	
+	margin-right: 5px;
+}
+@media all and (min-width: 600px) and (max-width: 1023px) {
+
+	header {
+		
+	width: 580px;
+	font-size: 18px;
+	
+	}
+
+section {
+	width: 580px;
+}
+
+#logograin {
+	width: 150px;
+		
+}
+
+#menu_principal{
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+
+	}
+
+#menu_principal ul li a {
+	
+		padding: 15px 7px;
+	}
+
+#inicio{
+	width: 580px;
+		
+	}
+
+#titulo_principal{
+
+	width: 400px;
+	}
+
+h2 {
+	font-size: 16px;
+
+}
+#titulo_secundario{
+	width: 350px;
+	height: 60px;
+	}
+
+h3 {
+	font-size: 25px;	
+		
+	}
+
+#imagen_central {
+	width: 580px;
+	
+	}
+
+#grain {
+	width: 580px;
+	height: 1200px;
+	
+}
+
+#logoesquina {
+	display: none;
+	
+		
+}
+
+#texto_nosotros {
+	width: 560px;
+	height: 100px;
+	
+}
+
+
+#que {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+}
+
+#titulo_que {
+	width: 300px;
+	
+	}
+	
+#isotipo_que {
+	width: 80px;
+		
+	}
+
+#texto_que {
+	width: 450px;
+	height: 150px;
+	
+	}
+
+
+#como {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	
+}
+
+
+#titulo_como {
+	width: 300px;
+			}
+
+
+
+#texto_como {
+	width: 450px;
+	height: 150px;
+	
+		}
+
+
+#paraquien {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+
+}
+
+#titulo_paraquien {
+	width: 300px;
+	
+	}
+
+
+#texto_paraquien {
+	width: 450px;
+	height: 150px;
+	
+	}
+
+#contribucion {
+	width: 580px;
+	height: 150px;
+		
+ 	}
+
+#boton_contribucion {
+
+	width: 480px;
+	height: 60px;
+
+}
+
+#anicontribucion {
+ 	
+    width:50px;
+	height: 80px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+#contribucion1 {
+	width: 580px;
+	height: 150px;
+		
+ 	}
+
+ 	
+#boton_contribucion1 {
+
+	width: 480px;
+	height: 60px;
+	
+}
+
+#profesionales{
+	width: 580px;
+	height: 1700px;
+	
+}
+
+#texto_profesionales {
+	width: 500px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+		
+}
+
+#areas {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+
+}
+#isoarea {
+	width: 400px;
+	margin-left: 40px;
+}
+
+
+#prof {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	
+}
+#isoprof {
+	width: 400px;
+	margin-left: 40px;
+	
+}
+
+#sumate {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+	
+}
+
+#isosumate {
+	width: 400px;
+	margin-left: 40px;
+}
+
+
+#participa {
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 40px;
+}
+
+#isoparticipa {
+	width: 400px;
+	margin-left: 40px;
+	
+}
+
+#proyectos{
+	width: 580px;
+	height: 2100px;
+		
+	}
+
+#imagen_proyectos {
+	width: 500px;
+	height: 350px;
+	
+}
+
+#realizados {
+
+	width: 580px;
+	height: 1000px;
+}
+
+#proyecto1 {
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+
+#texto_p1 {
+	width: 270px;
+	float: left;
+	margin-left: 90px;
+}
+
+#proyecto2 {
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+	
+}
+
+#texto_p2 {
+	width: 270px;
+	float: left;
+	margin-left: 90px;
+}
+#proyecto3 {
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+
+#texto_p3 {
+	width: 270px;
+	float: left;
+	margin-left: 90px;
+}
+
+
+#presenta {
+	width: 500px;
+	height: 300px;
+	margin-top: 5px;
+	
+}
+
+#titulo_presenta {
+	width: 360px;
+	 float: left;
+	margin-left: 90px;
+
+}
+
+#texto_presenta {
+
+	width: 400px;
+	float: left;
+	margin-left: 40px;
+	
+}
+
+#transparencia {
+	width: 500px;
+	height: 300px;
+	
+}
+
+#analisis {
+	width: 500px;
+	height: 300px;
+	
+	}
+
+
+#titulo_analisis {
+	width: 400px;
+	float: left;
+	margin-left: 40px;
+}
+
+#texto_analisis {
+
+	width: 400px;
+	float: left;
+	margin-left: 40px;
+	
+}
+
+#preguntas {
+	width: 580px;
+	height: 50PX;
+	margin-top: 650px;
+		
+	}
+
+#frecuentes {
+	width: 400px;
+	margin-top: 50px;
+	margin-left: 50px;
+
+	}
+
+#contacto {
+	width: 580px;
+	height: 900px;
+	background-color: #DF013A;
+	}
+
+
+
+input [type="submit"] {
+	width: 95%;
+	
+}
+
+textarea {
+	width: 95%;
+	float: left;
+	margin-left: 15px;
+	
+}
+
+input {
+	width: 95%;
+	
+}
+
+
+#soporte {
+	width: 580px;
+	height: 800px;
+	
+}
+
+#texto_puntuales {
+	width: 450px;
+	
+}
+
+#boton_pago {
+	width: 400px;
+	height: 200px
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+#boton_pago ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#boton_pago ul li {
+	display: block;
+}
+
+#boton_pago ul li a {
+	display: block;
+	padding: 20px 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#boton_pago ul li a:hover {
+	color: #DF013A;
+}
+
+#formas_pago {
+	width: 500px;
+	height: 400px;
+	float: left;
+	margin-left: 0px;
+}
+
+#boton_pagou {
+	width: 80%;
+	height: 80px;
+	float: left;
+	margin-left: 40px;
+}
+
+#boton_pagom {
+
+	width: 80%;
+	height: 80px;
+	background-color: #E6E6E6;
+	float: left;
+	margin-left: 40px;
+}
+
+#boton_pagoa {
+
+	width: 80%;
+	height: 80px;
+	background-color: #E6E6E6;
+	float: right;	
+	margin-right: 40px;
+}
+
+#zona_pagos {
+	width: 500px;
+	height: 700px;
+	background-color: #ffffff;
+	float: left;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+
+#zona_pagos img {
+	width: 120px;
+	background-image: url(imagenweb/$imagen);
+	background-size: cover;
+	box-sizing: border-box;
+	float: left;
+	margin-left: 190px;
+	margin-top: 5px;
+	
+}
+
+#texto_pago {
+	width: 100px;
+	height: 40px;
+	float: left;
+	margin-left: 180px;
+	margin-top: 5px;
+	
+}
+
+#texto_importe {
+	width: 200px;
+	height: 40px;
+	float: left;
+	margin-left:150px; 
+	margin-top: 5px;
+		
+}
+
+#texto_pago {
+	width: 200px;
+	height: 50px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 5px;
+
+}
+
+#Contacto {
+	width: 580px;
+	height: 600px;
+	
+     }
+
+#mail {
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+
+
+#wass {
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+
+
+#formulario {
+	width: 500px;
+	height: 600px;
+	float: left;
+	margin-left: 40px;
+}
+ 
+ 
+#resplandor {
+
+    width: 500px;
+
+}
+
+
+footer {
+	width: 580px;
+	height: 200px;
+	
+}
+
+#datos {
+	width: 500px;
+	height: 50px;
+		
+}
+
+#texto_datos {
+
+	width: 500px;
+		
+}
+}
+@media all and (max-width: 599px) {
+
+
+	header {
+
+	width: 100%;
+	height: auto;
+}
+
+section {
+	width: 90%;
+	height: auto;
+}
+
+
+#menu_principal{
+	width: 100%;
+	height: auto;
+	
+}
+
+#menu_principal ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+#menu_principal ul li {
+	display: block;
+}
+
+#menu_principal ul li a {
+	display: block;
+	padding: 20px 0px;
+	text-align: center;
+}
+
+
+#inicio{
+	width: 100%;
+	height: auto;
+	
+	}
+
+#titulo_principal{
+
+	width: 100%;
+	height: auto;
+
+}
+
+h2 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 18px;
+
+}
+#titulo_secundario{
+	width: 100%;
+	height: auto;
+	
+}
+
+h3 {
+	font-family: 'HelveticaNeue ThinCond';
+	font-size: 25px;	
+	margin-top: 15px;
+	color: #000000;
+	line-height: 25px;
+	box-sizing: border-box;
+	padding: 5PX;
+	
+	}
+
+#imagen_central {
+	width: 100%;
+	height: 280px;
+		
+		}
+
+#grain {
+	width: 100%;
+	height: auto;
+	float: left;
+		
+}
+
+#logoesquina {
+	display: none;
+		
+}
+
+#texto_nosotros {
+	width: 97%;
+	height: auto;
+	margin-left: 5px;
+
+}
+
+h4 {
+	font-family: 'HelveticaNeue ThinCond';
+	margin-top: 10px;
+	font-size: 22px;
+	color: #000000;
+	line-height: 25px;
+	float: left;
+	margin-left: 5px;
+	box-sizing: border-box;
+	padding: 5px;
+	text-align: justify;
+
+}
+
+h6 {
+	font-family: 'HelveticaNeue ThinCond';
+	margin-top: 0px;
+	font-size: 20px;
+	color: #DF013A;
+	line-height: 25px;
+	float: left;
+	margin-left: 5px;
+	box-sizing: border-box;
+	padding: 10px;
+	
+
+}
+
+#que {
+	width: 90%;
+	height: auto;
+	margin-left: 25px;
+
+	
+}
+#texto_que {
+	width: 90%;
+	height: auto;
+}
+
+#titulo_que {
+	width: 50%;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+
+	}
+
+#como {
+	width: 90%;
+	height: auto;
+	margin-left: 25px;
+
+	}
+#texto_como {
+	width: 90%;
+	height: auto;
+
+		}
+
+	#titulo_como {
+	width: 60%;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+
+	}
+
+#paraquien {
+	width: 90%;
+	height: auto;
+	float: left;
+	margin-left: 25px;
+
+}
+
+#texto_paraquien {
+	width: 90%;
+	height: auto;
+	margin-right: 25px;
+	
+	}
+
+#titulo_paraquien {
+	width: 60%;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+	
+	}
+
+
+#contribucion {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	
+ 	}
+
+ #anicontribucion {
+ 	
+    width:50%;
+	height:auto;
+	width:99%;
+   }
+ 
+#boton_contribucion {
+
+	width: 100%;
+	height: auto;
+	
+	margin-bottom: 30px;
+	
+}
+
+#contribucion1 {
+	width: 100%;
+	height: auto;
+		
+ 	}
+
+ 	
+#boton_contribucion1 {
+
+	width: 94%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	
+}
+#profesionales{
+	width: 100%;
+	height: auto;
+	float: left;
+	
+	}
+
+#texto_profesionales {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	
+}
+
+
+#areas {
+	width: 100%;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+#isoarea {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#texto_areas{
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+
+
+#prof {
+	width: 100%;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+
+	}
+#isoprof {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#texto_prof{
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#sumate {
+	width: 100%;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#isosumate {
+	width: 100%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+		
+	}
+
+#texto_sumate{
+	width: 90%;
+	height: auto;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+#participa {
+	width: 100%;
+	height: 300px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#isoparticipa {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#texto_particia {
+	width: 90%;
+	height: auto;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+
+#boton_contribucion {
+
+	width: 95%;
+	height: auto;
+
+}
+
+
+#proyectos{
+	width: 100%;
+	height: auto;
+	float: left;
+	
+	
+	}
+
+#imagen_proyectos {
+	width: 100%;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#realizados {
+
+	width: 100%;
+	height: 500px;
+	
+}
+
+#proyecto1 {
+	width: 100%;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#texto_p1 {
+	width: 100%;
+	height: auto;
+}
+
+#proyecto2 {
+	width: 100%;
+	height: 250;
+margin-left: auto;
+margin-right: auto;
+}
+
+#texto_p2 {
+	width: 100%;
+	height: auto;
+	
+}
+#proyecto3 {
+	width: 100%;
+	height: 250px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#texto_p3 {
+	width: 100%;
+	height: auto;
+	
+}
+#presenta {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#titulo_presenta {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+#texto_presenta {
+
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#transparencia {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#analisis {
+	width: 100%;
+	height: auto;
+margin-left: auto;
+margin-right: auto;
+
+	}
+
+
+#titulo_analisis {
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#texto_analisis {
+
+	width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#preguntas {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+	
+}
+
+#frecuentes {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+
+}
+
+#contacto {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-left: 0px;
+	
+}
+
+input {
+	width: 90%;
+	padding: 10px;
+	float: left;
+	margin-left: 25px;
+
+	}
+
+input [type="submit"] {
+	width: 90%;
+	padding: 10px;
+	background-color: #585858;
+	margin-top: 25px;
+}
+
+textarea {
+	width: 90%;
+	padding: 10px;
+	box-sizing: border-box;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+#soporte {
+	width: 100%;
+	height: auto;
+	
+	}
+
+#texto_puntuales {
+	width: 80%;
+	
+}
+
+#boton_pago {
+	width: 100%;
+	height: auto;
+}
+
+#boton_pago ul li {
+	display: block;
+}
+
+#boton_pago ul li a {
+	display: block;
+	
+	}
+
+#formas_pago {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+}
+
+#boton_pagou {
+	width: 80%;
+	height: auto;
+	float: left;
+	margin-left: 30px;
+	margin-top: 50px;
+}
+
+#boton_pagom {
+
+	width: 80%;
+	height: auto;
+	float: left;
+	margin-left: 30px;
+	}
+
+#boton_pagoa {
+
+	width: 80%;
+	height: auto;
+	float: left;
+	margin-left: 30px;
+
+	}
+
+#zona_pagos {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+}
+
+#zona_pagos img {
+	width: 120px;
+	background-image: url(imagenweb/$imagen);
+	background-size: cover;
+	box-sizing: border-box;
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+	
+}
+
+#texto_pago {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+
+	}
+
+#texto_importe {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-left:10px; 
+	margin-top: 5px;
+		
+		}
+
+#texto_pago {
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+#mail {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	
+}
+
+#imagen_mail {
+
+	width: 60px;
+	height: 40px;
+}
+
+#texto_mail {
+	
+	width: 100%;
+	height: auto;
+}
+
+#wass {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+}
+
+#imagen_wass {
+	width: 75px;
+	height: 45px;
+}
+
+#texto_wass {
+
+	width: 90%;
+	height: auto;
+
+}
+
+#formulario {
+	width: 95%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	
+}
+
+#imagen_formulario {
+	width: 45px;
+	height: 45px;
+	margin-left: 20px;
+	
+}
+ 
+#texto_formulario {
+
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	font-size: 
+
+} 
+
+h2 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 18px;
+}
+#resplandor {
+
+	-moz-box-shadow: 0px 0px 20px #ffffff;
+    -webkit-box-shadow: 0px 0px 20px #ffffff;
+    box-shadow: 0px 0px 20px #ffffff;
+      
+    padding: 0px;
+    border: 0,5px solid #ffffff;
+    width: 100%;
+    height: 120px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+footer {
+	width: 100%;
+	height: auto;
+
+}
+
+#datos {
+	width: 100%;
+	height: 70px;
+
+}
+
+#texto_datos {
+
+	width: 100%;
+	height: auto;
+	}
+}
